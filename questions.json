@@ -1,0 +1,38 @@
+{
+    "python": [
+      { "question": "What is a list in Python?", "answer": "A mutable, ordered collection of items." },
+      { "question": "How do you define a function in Python?", "answer": "You use the `def` keyword to define a function." },
+      { "question": "What are the different data types in Python?", "answer": "Python has various data types like integers, floats, strings, booleans, etc." }
+    ],
+    "java": [
+      { "question": "What is the difference between primitive and reference data types?", "answer": "Primitive data types hold actual values, while reference types store memory locations." },
+      { "question": "What are the four pillars of OOP?", "answer": "Encapsulation, Inheritance, Polymorphism, and Abstraction." },
+      { "question": "What is the purpose of access modifiers (`public`, `private`, `protected`)?", "answer": "Control visibility and accessibility of class members." }
+    ],
+    "javascript": [
+      { "question": "What's the difference between `var`, `let`, and `const`?", "answer": "`var` has scoping issues, `let` is block-scoped, `const` is for constants." },
+      { "question": "How do you create an object in JavaScript?", "answer": "Use object literals (`{}`) or the `new` keyword with a constructor." },
+      { "question": "What does DOM (Document Object Model) represent?", "answer": "The structure of an HTML document as a tree of objects." }
+    ],
+    "c++": [
+      { "question": "What are pointers in C++?", "answer": "Variables that store memory addresses of other variables." },
+      { "question": "What is the difference between pass-by-value and pass-by-reference?", "answer": "Pass-by-value copies arguments, pass-by-reference passes memory addresses." },
+      { "question": "What is operator overloading?", "answer": "Redefining operator behavior for user-defined types (classes)." }
+    ],
+    "c#": [
+      { "question": "What's the difference between a class and a struct?", "answer": "Classes are reference types by default, structs are value types." },
+      { "question": "What are the benefits of garbage collection?", "answer": "Automatic memory management, preventing memory leaks." },
+      { "question": "What are delegates?", "answer": "Function pointers that allow passing methods as arguments." }
+    ],
+    "php": [
+      { "question": "What are superglobals in PHP?", "answer": "Predefined variables like `$_GET` that contain request information." },
+      { "question": "How do you connect to a database in PHP?", "answer": "Use functions like `mysqli_connect` or PDO." },
+      { "question": "What's the difference between `include` and `require`?", "answer": "`require` throws a fatal error if the file is not found, `include` generates a warning." }
+    ],
+    "sql": [
+      { "question": "What is the `SELECT` statement used for?", "answer": "To retrieve data from a database table." },
+      { "question": "What does the `WHERE` clause do?", "answer": "Filters rows based on specified conditions." },
+      { "question": "What are different types of joins (e.g., INNER JOIN)?", "answer": "SQL has various joins to combine data from multiple tables." }
+    ]
+}
+  
